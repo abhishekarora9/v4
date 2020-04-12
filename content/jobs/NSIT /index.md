@@ -4,7 +4,7 @@ title: 'Undergraduate Researcher'
 company: 'NSIT'
 location: 'Delhi, India'
 range: 'May 2018 - May 2019'
-url: 'https://nsit.ac.in/'
+url: 'http://www.nsit.ac.in/'
 ---
 
 - Worked to build a predictive model to predict the spread of Tuberculosis in India and risk in each district of India using factors like population, income, re-emergence case rate, mortality rate etc. using sklearn and pandas
