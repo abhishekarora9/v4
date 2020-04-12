@@ -1,5 +1,5 @@
 ---
-date: '2017-07-15'
+date: '2017-05-15'
 title: 'Marketing Intern'
 company: 'IIM Lucknow'
 location: 'Remote'
