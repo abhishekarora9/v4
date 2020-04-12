@@ -4,35 +4,35 @@ module.exports = {
     'Abhishek Arora is a research engineer based in New Delhi, India who specializes in applied NLP applications.',
   siteKeywords:
     'Abhishek Arora, Abhishek, Arora, abhishekarora9, software engineer, research engineer, nlp, ai,ml, IIIT Hyderabad,NSIT,IIT Delhi, DPS Rohini',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://abhishek-arora.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: '',
+  googleVerification: '',
+  name: 'Abhishek Arora',
+  location: 'New Delhi, India',
+  email: 'abhishek9797@gmail.com',
+  github: 'https://github.com/abhishekarora9',
+  twitterHandle: '@abhishekarora_9',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/abhishekarora9',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/abhishekarora9',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://codepen.io/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/abhishekarora_9/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/abhishekarora_9',
     },
   ],
 
