@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Abhishek Arora | Research Engineer - NLP',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Abhishek Arora is a research engineer based in New Delhi, India who specializes in applied NLP applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Abhishek Arora, Abhishek, Arora, abhishekarora9, software engineer, research engineer, nlp, ai,ml, IIIT Hyderabad,NSIT,IIT Delhi, DPS Rohini',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
