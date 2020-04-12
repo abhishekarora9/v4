@@ -1,7 +1,7 @@
 ---
 date: '2020-04-01'
 title: 'Research Engineer - Data Science (NLP)'
-company: 'Product Labs, IIIT Hyderabads'
+company: 'Product Labs, IIIT Hyderabad'
 location: 'Hyderabad, Telangan, India'
 range: 'Jan 2020 - Present'
 url: 'https://tto.iiit.ac.in/'
