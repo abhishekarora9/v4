@@ -1,12 +1,11 @@
 ---
-date: '2015-12-21'
-title: 'IIT Delhi'
+date: '2017-07-15'
+title: 'Research Intern'
 company: 'IIT Delhi'
 location: 'Delhi, India'
-range: 'July - Dec 2015'
-url: 'https://us.mullenlowe.com/'
+range: 'May - July 2017'
+url: 'https://iitd.ac.in/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Worked to build a predictive model to predict the spread of Tuberculosis in India and risk in each district of India using factors like population, income, re-emergence case rate, mortality rate etc. using sklearn and pandas
+- Aim to increase the diagnose rate (currently ~55%) so as to eradicate TB by 2025.
