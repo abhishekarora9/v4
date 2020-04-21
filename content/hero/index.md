@@ -1,7 +1,7 @@
 ---
-title: 'Hi, I am '
+title: 'Hi, my name is'
 name: 'Abhishek Arora'
-subtitle: 'You didn't came this far just to come this far!'
+subtitle: "You did'nt came this far to come this far!"
 contactText: 'Get In Touch'
 ---
 
