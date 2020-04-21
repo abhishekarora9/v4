@@ -22,4 +22,4 @@ I did my Bachelor of Engineering from [Netaji Subhas Institute of Technology - N
 
 Speaking of my passion for coding, I was the youngest Grand Prize winner in Google Code-In 2011, securing a 2nd position among 542 students from 56 countries. Apart from this, I like to leisure around with my free time with gobbling up any new Movies or TV/Web-series that I can find which I find intriguing.
 
-Academically I have been a consistent performer. I was awarded the Gold Medal and a 6 year scholar award at my alma matar (DPS Rohini) with 94.6% in class XII. At my college I graduated with first class and distinction (Hons.) engineering degree with a CGPA of 8.63.
+Academically I have been a consistent performer. I was awarded the Gold Medal and a 6 year scholar award at my alma matar (DPS Rohini) with 94.6% in class XII. At my college I graduated with first class and distinction (Hons.) engineering degree with a CGPA of 8.61.

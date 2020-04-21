@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Abhishek Arora'
-subtitle: 'sudo rm -rf /'
+subtitle: 'sudo rm -rf / ;)'
 contactText: 'Get In Touch'
 ---
 
