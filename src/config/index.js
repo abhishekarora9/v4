@@ -1,7 +1,8 @@
 module.exports = {
-  siteTitle: 'Abhishek Arora | Research Engineer - NLP',
+  siteTitle:
+    'Abhishek Arora - Research Engineer (NLP) - IIIT Hyderabad| Google Code-In Grand Prize Winner| IITD | NSIT | DPSR',
   siteDescription:
-    'Abhishek Arora is a research engineer based in New Delhi, India who specializes in applied NLP applications.',
+    'Abhishek Arora is a research engineer based in New Delhi, India who specializes in applied NLP research applications.',
   siteKeywords:
     'Abhishek Arora, Abhishek, Arora, abhishekarora9, software engineer, research engineer, nlp, ai,ml, IIIT Hyderabad,NSIT,IIT Delhi, DPS Rohini',
   siteUrl: 'https://abhishek-arora.com',
@@ -46,7 +47,7 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Achievements',
       url: '/#projects',
     },
     {
